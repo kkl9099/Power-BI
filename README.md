@@ -99,11 +99,3 @@ Price Std Dev = STDEV.P(CarPrice_Cleaned_Datset[price])
 
 ---
 
-## 📬 Let's Connect
-
-If you'd like to collaborate, ask questions, or see more of my data projects:
-
-📧 [kklimbachiya9099@gmail.com]  
-🔗 [www.linkedin.com/in/killari-limbachiya-a543511b7]  
-
----
